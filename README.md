@@ -6,7 +6,7 @@ This is an evolving portfolio of hands-on LLM projects. It documents my learning
 
 ### 1. Clone this Repository
 ```bash
-git clone https://github.com/your-username/llm-journey.git
+git clone https://github.com/VishalKhushlani/llm-portfolio
 cd llm-portfolio
 ```
 
